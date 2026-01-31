@@ -1,0 +1,1 @@
+# This projects leads to create Structural engineering RAG, where chat can create structural desing based on requirement.
